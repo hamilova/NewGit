@@ -1,0 +1,20 @@
+ugReport1.txt
+
+ "Items" page  scrolls beyond page size
+
+Priority: low
+Environment:
+win 10
+chrome browser
+staging environment
+
+build #  1.0.2
+
+Description
+Open http://xxxeee.com/#
+in the left side menu press ITEMS menu
+Scroll page down
+actual result: page scrolls over the actual page size
+
+expected result: page won't scroll after the page ends
+Attachments[A[A[A[A[A[A[A[D[D[D[D[D[D[D[D[D[D[D[B[B[A1)[B[D[D2)[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclick[B[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D3)scrollpage down[D[D[D[D[D[D[D[D[D page down[B[B[B[Bhhh.jpg[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[D[D[D[D[D[D[D[D[D[D[B[D[D
