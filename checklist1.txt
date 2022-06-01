@@ -1,0 +1,28 @@
+1	A22-265	
+Registration - Password/Confirm password - Allowable characters: Alphanumeric and special characters
+
+	2	A22-267	
+Registration - Password/Confirm password - Password field is required - cannot be empty
+
+	3	A22-269	
+Registration - Password/Confirm password - Min (5) characters
+
+	4	A22-271	
+Registration - Password/Confirm password - Min (5-1) characters
+
+	5	A22-275	
+Registration - Password/Confirm password - Maximum (32) characters
+
+	6	A22-276	
+Registration - Password/Confirm password - Maximum (32+1) characters
+
+	7	A22-289	
+Registration - Password/Confirm password - Whitespaces are not allowed - Leading spaces
+
+	8	A22-292	
+Registration - Password/Confirm password - Whitespaces are not allowed - Trailing spaces
+
+	9	A22-293	
+Registration - Password/Confirm password - Whitespaces are not allowed - In-between spaces
+
+	10	A22-295	
